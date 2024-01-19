@@ -1,0 +1,15 @@
+trigger
+-main
+Stage1
+{
+job:
+task:
+command:
+}
+
+Stage2
+{
+job:
+task:
+command:
+}
